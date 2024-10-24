@@ -22,4 +22,4 @@
 
 ## Disclaimer: 
 1. This exercise was carried out based on the Enisa training online material: Forensic Analysis: Local Incident Response.
-2. This post is part of an ongoing series on Forensic analysis. Stay tuned for more insights on hashtag#ForensicHunt.
+
